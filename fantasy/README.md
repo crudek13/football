@@ -3,4 +3,4 @@
 * data cleansing
 * analysis
 * api?
-* coparison
+* comparison
